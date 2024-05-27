@@ -1,0 +1,25 @@
+# Archivos ejecutables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Archivos generados por el compilador
+*.o
+*.a
+*.out
+
+# Archivos de dependencias
+/vendor/
+/go.sum
+
+# Archivos de configuración
+/.env
+
+# Archivos de registro
+/log/
+
+# Archivos de respaldo
+*.bak
+*.swp
