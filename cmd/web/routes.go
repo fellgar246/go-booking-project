@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/fellgar246/go-templates-app/pkg/config"
-	"github.com/fellgar246/go-templates-app/pkg/handlers"
+	"github.com/fellgar246/go-booking-project/pkg/config"
+	"github.com/fellgar246/go-booking-project/pkg/handlers"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 )

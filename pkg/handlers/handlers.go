@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/fellgar246/go-templates-app/pkg/config"
-	"github.com/fellgar246/go-templates-app/pkg/models"
-	"github.com/fellgar246/go-templates-app/pkg/render"
+	"github.com/fellgar246/go-booking-project/pkg/config"
+	"github.com/fellgar246/go-booking-project/pkg/models"
+	"github.com/fellgar246/go-booking-project/pkg/render"
 )
 
 // Repo the repository used by the handlers
