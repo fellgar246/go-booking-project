@@ -23,3 +23,5 @@
 # Archivos de respaldo
 *.bak
 *.swp
+
+.DS_Store
